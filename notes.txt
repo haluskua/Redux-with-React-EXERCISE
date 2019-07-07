@@ -1,0 +1,11 @@
+Redux Notes:
+
+Store
+Global State: data available to the whole application for reading and writing
+
+Actions
+Global Interactions: events occurring across the application that components may be influenced by
+Actions are dispatched.
+
+Reducers
+Workers: respond to events (or actions) and change global state as a result
