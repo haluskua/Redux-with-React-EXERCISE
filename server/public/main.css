@@ -1,0 +1,21 @@
+body {
+  background-color: #fefff5 !important;
+}
+
+.Opp {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 100vw;
+  height: 140px;
+}
+button {
+  border-radius: 4px;
+  padding: 9px;
+}
+
+.age_label {
+  font-size: 3em;
+  font-weight: bold;
+}
